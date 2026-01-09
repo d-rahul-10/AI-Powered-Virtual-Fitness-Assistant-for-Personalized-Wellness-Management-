@@ -1,0 +1,9 @@
+streamlit
+bcrypt
+fpdf
+openai
+python-dotenv
+plotly
+PyMuPDF
+groq
+reportlab
