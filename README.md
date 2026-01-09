@@ -50,15 +50,15 @@ All interactions are logged locally for continuity and reporting.
 
 📂 Project Structure
 FitNova-AI/
-├── .env                 # Your Groq API key
-├── requirements.txt     # Dependencies
-├── init_db.py           # Creates SQLite database
-├── app.py               # Main Streamlit app
-├── db.py                # Database connector (SQLite)
-├── auth.py              # Secure login/register (bcrypt)
-├── chatbot.py           # Fitness AI assistant
-├── nutrition_chat.py    # Meal plan analyzer
-├── dashboard.py         # Progress visualizations
+├── .env                 
+├── requirements.txt   
+├── init_db.py          
+├── app.py              
+├── db.py               
+├── auth.py              
+├── chatbot.py           
+├── nutrition_chat.py    
+├── dashboard.py         
 
 ⚠️ Important Notes
 Model Update: This project uses llama-3.1-8b-instant, the official replacement for the deprecated llama3-8b-8192 (shut down by Groq on August 30, 2025).
