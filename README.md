@@ -20,7 +20,7 @@ A Groq API Key (free tier available)
 Installation
 bash
 # Clone the repo
-git clone https://github.com/your-username/FitNova-AI.git
+git clone (https://github.com/d-rahul-10/AI-Powered-Virtual-Fitness-Assistant-for-Personalized-Wellness-Management-)
 cd FitNova-AI
 
 # Create virtual environment (recommended)
@@ -49,7 +49,6 @@ All interactions are logged locally for continuity and reporting.
 🔄 No model training. No data collection. Just smart use of off-the-shelf AI + your own data.
 
 📂 Project Structure
-123456789101112
 FitNova-AI/
 ├── .env                 # Your Groq API key
 ├── requirements.txt     # Dependencies
