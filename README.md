@@ -63,7 +63,8 @@ FitNova-AI/
 ⚠️ Important Notes
 Model Update: This project uses llama-3.1-8b-instant, the official replacement for the deprecated llama3-8b-8192 (shut down by Groq on August 30, 2025).
 Privacy: Your health data is never sent to Groq—only anonymized, stateless prompts.
-Local-First: Designed for single-user, offline-capable use (except for AI calls).🤝 Contributing
+Local-First: Designed for single-user, offline-capable use (except for AI calls).
+🤝 Contributing
 Contributions are welcome! Please open an issue or submit a PR for:
 
 Bug fixes
